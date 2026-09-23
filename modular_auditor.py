@@ -28,5 +28,3 @@ while True:
 print("\n-- Audit Report ---")
 print(f"Total Units Processed: {total_inventory}")
 print(f"Number of Failed/Rejected Entries: {failed_entries}")
-
-
