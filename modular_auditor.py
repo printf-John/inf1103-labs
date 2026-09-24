@@ -1,3 +1,19 @@
+def get_valid_input():
+    # returns an integer, "quit", or an invalid-input signal
+
+
+def process_delivery(current_total, new_value):
+    # returns the new inventory total
+
+
+def calculate_tax(amount):
+    # returns 10% tax
+
+
+def generate_report(total_units, failed_attempts):
+    # prints the final report
+
+
 total_inventory = 0
 failed_entries = 0
 
